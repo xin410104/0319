@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>homework</title>
-	<meta charset = "utf-8"></meta>
+	<meta charset = "utf-8"/>
 	<script style = "text/javascript">
 		function change(){
 			var getObject=document.getElementById("weather");
